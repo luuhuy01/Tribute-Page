@@ -1,0 +1,103 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "-apple-system", "BlinkMacSystemFont", "Segoe UI", "Roboto",
+    "Helvetica Neue", "Arial", "sans-serif";
+}
+
+html {
+    background-color: white;
+    font-size: 16px;
+}
+
+#main {
+    background-color: #eee;
+    margin: 30px 8px;
+    padding: 15px;
+    border-radius: 5px;
+    position: relative;
+}
+
+#title{
+    text-align: center;
+    
+}
+
+#title h1 {
+    display: block;
+    margin-top: 26.8px;
+    font-size: 40px;
+    line-height: 60px;
+}
+
+#title div {
+    margin: 16px 0px;
+    line-height: 24px;
+    text-align: center;
+}
+
+#img-div {
+    display: block;
+    background-color: white;
+    margin: 0px;
+    padding: 10px;
+    position: relative;
+    
+}
+
+#image {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    padding: auto;
+}
+
+#img-caption {
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    line-height: 24px;
+    opacity: 0.8;
+}
+
+#tribute-info{
+    opacity: 0.8;
+}
+
+#tribute-info h2 {
+    margin: 50px 0px;
+    text-align: center;
+    line-height: 28px;
+    font-size: 18.72px;
+    font-weight: 700;
+}
+
+#tribute-info ul{
+    margin: 0px 142.5px 50px 142.5px;
+    padding-left: 40px;
+}
+
+#tribute-info ul li{
+    margin: 16px 0px;
+    line-height: 25px;
+}
+
+.on-footer {
+    display: block;
+    margin: 0px 162.5px 50px 162.5px;
+    font-style: italic;
+    opacity: 0.8;
+    line-height: 24px;
+}
+
+.on-footer p{
+    margin: 16px 0px;   
+}
+
+.footer {
+    opacity: 0.8;
+    margin: 18.72px 0px;
+    text-align: center;
+    line-height: 28px;
+    font-weight: 700;
+}
